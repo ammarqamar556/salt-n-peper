@@ -1,0 +1,169 @@
+.btn{
+    border: 2px solid rgb(255, 255, 255) !important;
+    border-radius: 25px !important;
+    width: 100px !important;
+    height: 44px !important;
+    color: white !important;
+    padding: 6px 12px !important;
+}
+.btn2{
+    border:2px solid red !important;
+    height: 44px !important;
+    margin: 0px 0px 0px 24px;
+     width: 100px !important;
+    border-radius: 25px !important;
+    background-color: red !important;
+    color: white !important;
+}
+
+.navbar{
+    background-color: black !important;
+    color: white;
+}
+.nav-link{
+    color: white !important;
+    font-size: 20px !important;
+}
+
+.img{
+    background: url("./pexels-devon-rockola-954677.jpg")no-repeat !important;
+    background-size: cover !important;
+    height: 80vh;
+    
+}
+.one{
+    font-weight: 70px !important;
+    background-color:aliceblue;
+    color:black;
+    font-size: 20px;
+    border-color:2px solid whitesmoke !important ;
+    border: 5px solid black;
+    border-radius: 25px !important;
+    
+}
+.slide {
+    width: 100%;
+    height: 700px;
+  }
+  .slide > img {
+    width: 100%;
+    height: 100%;
+  }
+.intro {
+    width: 100%;
+    height: 700px;
+    background-color: black;
+  }
+ 
+  .intro > .content > h2 {
+    margin: 0%;
+    color: white;
+  }
+  .intro > .content > p {
+    color: white;
+  }
+  .content {
+    text-align: center;
+    width: 100%;
+    padding: 50px;
+  }
+  .content > h2 > span {
+    font-family: futurak;
+  }
+  .content > h2 {
+    font-size: 40px;
+    letter-spacing: 5px;
+  }
+  .content > p {
+    color: white;
+  }
+   .card-logo {
+    text-align: center;
+    width: 250px;
+    background-color: white;
+    padding: 30px 10px;
+  }
+  .card-logo > img {
+    width: 70%;
+  }
+  .card-btn > button {
+    border: none;
+    padding: 15px 50px;
+    border-radius: 35px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white !important;
+  }
+  .card-btn {
+    width: 250px;
+    margin-top: 10px;
+    text-align: center;
+  }
+  .cards {
+    display: inline-block;
+    
+  }
+  .cards-container {
+    text-align: center;
+  }
+  .faranchise-one{
+    width: 100%;
+  height: 1700px;
+  background-color: rgb(18, 16, 16);
+  }
+  .faranchise-work{
+   text-align: center;
+   font-weight: bold;
+  }
+  .faranchise-work > h5{
+    color: white;
+    margin: 0%;
+  }
+  .font{
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+  }
+  .font-weight{
+    font-size: 50px;
+    padding: 15px;
+  }
+  .text-style{
+    padding: 30px;
+  }
+  .color-red{
+    color: red;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .font-style{
+    font-size: 30px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .location{
+    /* padding: 15px; */
+    color: rgb(223, 216, 216);
+  }
+  .contact{
+    color: rgb(223, 220, 220);
+  }
+  .important-things{
+    /* margin:5% ; */
+    margin-left: 50%;
+  }
+  .faranchise-pick{
+    margin-left: 50%;
+    padding: 10px;
+  }
+  .btn-1{
+    border-radius: 30px;
+    background-color:white;
+    color:black;
+  }
+  .important-things-1{
+    margin: 100px;
+  }
+  .faranchise-pick-1{
+    padding: 30px;
+  }
